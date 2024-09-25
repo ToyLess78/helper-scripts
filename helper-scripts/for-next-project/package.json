@@ -1,0 +1,12 @@
+{
+  "name": "helper-scrips-tempate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "next lint",
+    "format": "prettier --write ..",
+    "lint-and-format": "bash script/lint-and-format.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
